@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## JavaScript Automation Lab
 
 You can use the [editor on GitHub](https://github.com/pawanbcet54/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
